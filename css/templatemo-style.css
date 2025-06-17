@@ -1,8 +1,7 @@
 /*
 
-Beauty Template
+Rose Beauty garden
 
-http://www.templatemo.com/tm-519-beauty
 
 ---------------------------------------
 
@@ -67,7 +66,7 @@ a.tm-text-light-dark:hover { color: #747474; }
 .tm-logo {
     width: 370px;
     height: 370px;
-    background: url(../img/logo-bg.png) center no-repeat;
+    background: url(../img/rbglogo-round.png) center no-repeat;
     background-size: cover;
     position: absolute;
     right: -13%;
@@ -170,19 +169,19 @@ p {
 }
 
 .tm-img-container-1 {
-  background-image: url(../img/green-tree-red-cup.jpg);
-  background-position: top center;
+  background-image: url(../img/CP_Left.jpg);
+  background-position: left;
 }
 
 .tm-img-container-2 {
-  background-image: url(../img/girl-01.jpg);
-  background-position: top center;
+  background-image: url(../img/CP_Right.jpg);
+  background-position: center;
   margin-left: 8px;
 }
 
 .tm-img-container-3 {
-  background-image: url(../img/backpack-guy.jpg);
-  background-position: top right;
+  background-image: url(../img/offer.jpg);
+  background-position:center;
 }
 
 .tm-img { width: 49%; }
